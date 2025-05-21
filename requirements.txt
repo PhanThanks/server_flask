@@ -1,5 +1,7 @@
-Flask
-requests
-ultralytics
-opencv-python-headless
-torch
+Flask==2.2.5
+requests==2.31.0
+ultralytics==8.1.25
+opencv-python-headless==4.8.0.76
+torch>=1.13.0
+numpy>=1.21
+Pillow>=9.0.0
